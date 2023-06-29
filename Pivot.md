@@ -105,4 +105,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Acknowledgements
 
-This program was developed as a demonstration of DataFrame pivot operation in C.
+This program was developed by Soumya Chakraborty as a demonstration of DataFrame pivot operation in C.
