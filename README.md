@@ -1,4 +1,4 @@
-# Implementing DataFrame Operations of PYTHON (Pandas) in C Language
+# Implementing DataFrame Operations of Python (Pandas) in C Language
 
 This C program demonstrates some basic operations on a DataFrame. The program creates a DataFrame structure, adds rows to it, and performs operations such as printing the DataFrame, calculating summary statistics, and performing aggregation.
 
