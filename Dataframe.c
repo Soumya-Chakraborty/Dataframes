@@ -152,23 +152,14 @@ void performAggregation(DataFrame* df, const char* column) {
     }
 }
 
-void melt(DataFrame* df, const char* column){
-    // CODE HERE
-    
-    return 0;
-}
-
 int main() {
-    initialize_n = 0;   // Initial number of rows (with zero entries) in the dataframe
+    int initialize_n = 0;   // Initial number of rows (with zero entries) in the dataframe
     DataFrame* df = createDataFrame(initialize_n);
 
     // Add rows to the DataFrame
     addRow(df, "John", 25, "New York", "Male");
     addRow(df, "Alice", 30, "London", "Female");
     addRow(df, "Bob", 35, "Paris", "Male");
-    
-    melt(df, "City");
-    melt(df, "Gender");
 
     // Print the DataFrame
     printDataFrame(df);
