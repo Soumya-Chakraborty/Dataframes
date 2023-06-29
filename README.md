@@ -2,7 +2,7 @@
   <img src="https://pics.craiyon.com/2023-06-13/0205f5e24c4b4aefb0f47706fb3122de.webp" alt="Image Alt Text" width="400" height="400">
 </p>
 
-# DataFrame Operations in C
+# DataFrame Operations of PYTHON (Pandas) in C Language
 
 This C program demonstrates basic operations on a DataFrame. The program creates a DataFrame structure, adds rows to it, and performs operations such as printing the DataFrame, calculating summary statistics, and performing aggregation.
 
